@@ -96,8 +96,8 @@ class prac10{
 		System.out.println("After Swap:\na = "+a+", b = "+b+"\ns1 = "+s1+", s2 = "+s2);
 	}
 	public static void main(String[] args){
-		//revstr();	
-		//facto();
+		revstr();	
+		facto();
 		//charCount();
 		//sortarray();
 		//startwith();
